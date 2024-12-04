@@ -9,3 +9,5 @@ Este proyecto es un encriptador basado en un algoritmo de encriptación simétri
 
 La encriptación simétrica utiliza una sola clave para tanto la encriptación como la desencriptación de los datos. Es rápida y eficiente para manejar grandes volúmenes de datos. Sin embargo, el principal desafío es la distribución segura de la clave entre las partes que se comunican.
 
+
+
